@@ -52,6 +52,4 @@ The playbook has two tasks, one to install epel and the other to install nginx, 
 ## AWS service description - Amazon Route 53
 Amazon Route 53 is a highly available and scalable DNS web service. It gives developers an extremely reliable way of managing their domains. As for all other services, Amazon provides good documentation for Route 53 as well. It lets you register domain names, translates domain names into IP addresses and sends automated requests over to the internet to your application to verify that it's reachable, available and functional. It is designed to work closely with other services like EC2, S3 etc
 
-## Link to screencast
-![alt text](./Final.mov "screencast")
 
